@@ -455,6 +455,27 @@
       ],
       "ast": [
         "aggregate/ast/3fc54e02b9979427aa8c5bcb1e0c50eb29f552dd/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3fc54e02b9979427aa8c5bcb1e0c50eb29f552dd.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "click",
+          "ecosystem": "PYPI",
+          "version": "8.0",
+          "githubOrg": "pallets",
+          "githubRepo": "click",
+          "githubUrl": "https://github.com/pallets/click",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "13.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     },
     {
