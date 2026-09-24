@@ -68,12 +68,7 @@
     {
       "@id": "https://repolex.ai/r/repolex-ai/forx/commit/3fc54e02b9979427aa8c5bcb1e0c50eb29f552dd",
       "git:hexsha": "3fc54e02b9979427aa8c5bcb1e0c50eb29f552dd",
-      "repolex:parseStatus": "metadata_complete"
-    },
-    {
-      "@id": "https://repolex.ai/r/repolex-ai/forx/commit/f1feb019497a30d3252727eb1175f7b12c7f0bb6",
-      "git:hexsha": "f1feb019497a30d3252727eb1175f7b12c7f0bb6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
