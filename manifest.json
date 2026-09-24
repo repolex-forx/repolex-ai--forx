@@ -476,7 +476,9 @@
           "githubUrl": "https://github.com/Textualize/rich",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3fc54e02b9979427aa8c5bcb1e0c50eb29f552dd/chunk-001.nq.gz",
+      "dep": "dep/3fc54e02b9979427aa8c5bcb1e0c50eb29f552dd.nq.gz"
     },
     {
       "commit": "f1feb019497a30d3252727eb1175f7b12c7f0bb6",
