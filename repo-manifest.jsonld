@@ -95,6 +95,11 @@
       "@id": "https://repolex.ai/r/repolex-ai/forx/commit/98fbea2d07e8af11f4b04535a01c41f60cbf9eb4",
       "git:hexsha": "98fbea2d07e8af11f4b04535a01c41f60cbf9eb4",
       "repolex:parseStatus": "metadata_complete"
+    },
+    {
+      "@id": "https://repolex.ai/r/repolex-ai/forx/commit/85e0899d1be1d34ec927cc31b51d5baccbdb476f",
+      "git:hexsha": "85e0899d1be1d34ec927cc31b51d5baccbdb476f",
+      "repolex:parseStatus": "metadata_complete"
     }
   ]
 }
